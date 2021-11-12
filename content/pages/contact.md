@@ -5,6 +5,7 @@ sections:
     title: Contact
     align: center
   - type: contact_section
+    title: eiaea
 seo:
   title: Contact
   description: This is the contact page

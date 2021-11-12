@@ -182,7 +182,7 @@ models:
         type: string
         label: Age
         default: 20
-      - name: ''
+      - name: size
         type: string
   category:
     type: data

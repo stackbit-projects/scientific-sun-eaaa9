@@ -17,7 +17,6 @@ export default class TeamSection extends React.Component {
         const bio = _.get(teamMember, 'bio');
         const age = _.get(teamMember, 'age');
         const size = _.get(teamMember, 'size');
-        console.log(teamMember)
 
         return (
             <div key={index} className="cell">

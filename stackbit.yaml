@@ -182,6 +182,8 @@ models:
         type: string
         label: Age
         default: 20
+      - name: ''
+        type: string
   category:
     type: data
     label: Category

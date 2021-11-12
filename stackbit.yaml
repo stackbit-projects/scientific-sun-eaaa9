@@ -178,6 +178,8 @@ models:
       - type: markdown
         name: bio
         label: Bio
+      - name: ''
+        type: string
   category:
     type: data
     label: Category

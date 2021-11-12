@@ -180,6 +180,7 @@ models:
         label: Bio
       - name: Age
         type: number
+        label: Age
   category:
     type: data
     label: Category

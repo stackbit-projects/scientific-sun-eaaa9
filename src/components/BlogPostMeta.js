@@ -23,7 +23,7 @@ export default class BlogPostMeta extends React.Component {
         const post = _.get(this.props, 'post');
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%B %d, %Y');
+        const formattedDate = moment(date).strftime('%B %d, %YY');
         const authorRef = _.get(post, 'author');
         const containerClass = _.get(this.props, 'containerClass', '');
 

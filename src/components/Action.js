@@ -24,7 +24,7 @@ export default class Action extends React.Component {
         }
         return (
             <Link href={withPrefix(url)} {...attrs} className={classes}>
-                {label}aaa
+                {label} aa
             </Link>
         );
     }

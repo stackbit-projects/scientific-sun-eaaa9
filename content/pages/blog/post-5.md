@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-  - lorem-ipsum
+  - Toto
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-

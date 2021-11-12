@@ -16,6 +16,7 @@ export default class TeamSection extends React.Component {
         const name = _.trim(`${firstName} ${lastName}`);
         const bio = _.get(teamMember, 'bio');
         const age = _.get(teamMember, 'age');
+        const size = _.get(teamMember, 'size');
         console.log(teamMember)
 
         return (
@@ -32,7 +33,7 @@ export default class TeamSection extends React.Component {
                         </header>
                         {bio && <div className="card__copy">{markdownify(bio)}</div>}
                         <div class="age">{age}</div>
-                        <div class="age">{size}</div>
+                        <div class="size">{size}</div>
                     </div>
                 </div>
             </div>

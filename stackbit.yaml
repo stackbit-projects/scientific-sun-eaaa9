@@ -178,7 +178,7 @@ models:
       - type: markdown
         name: bio
         label: Bio
-      - name: ''
+      - name: Age
         type: number
   category:
     type: data

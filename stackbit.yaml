@@ -184,6 +184,7 @@ models:
         default: 20
       - name: size
         type: string
+        label: Size
   category:
     type: data
     label: Category

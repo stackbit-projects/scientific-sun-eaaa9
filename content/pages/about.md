@@ -28,7 +28,7 @@ sections:
       - content/data/team/gordon-norman.yaml
       - content/data/team/person-dzsyupst0.json
   - type: cta_section
-    title: Join the Team
+    title: Join theauiea Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us

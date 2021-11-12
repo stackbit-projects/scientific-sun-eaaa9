@@ -31,7 +31,7 @@ export default class TeamSection extends React.Component {
                             <h3 className="h4 card__title">{name}</h3>
                         </header>
                         {bio && <div className="card__copy">{markdownify(bio)}</div>}
-                        <div>Age: {age}</div>
+                        <div class="age">Age: {age}</div>
                     </div>
                 </div>
             </div>

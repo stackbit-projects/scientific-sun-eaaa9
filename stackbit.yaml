@@ -181,6 +181,7 @@ models:
       - name: Age
         type: number
         label: Age
+        default: 20
   category:
     type: data
     label: Category

@@ -7,6 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
+  - lorem-ipsum
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-

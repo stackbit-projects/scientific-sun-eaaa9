@@ -65,7 +65,7 @@ export default class BlogFeedSection extends React.Component {
                         <header className="card__header">
                             <BlogPostCategories categories={categories} data={data} containerClass={'card__meta'} />
                             {sectionTitle ? <h3 className="h4 card__title"><Link href={postUrl}>{title}</Link></h3>
-                                : <h2 className="h4 card__title"><Link href={postUrl}>{title}</Link></h2>}
+                                : <h2 className="h4 card__title"><Link href={postUrl}>{title} aaa</Link></h2>}
                         </header>
                         {excerpt && (<div className="card__copy"><p>{excerpt}</p></div>)}
                         <BlogPostMeta post={post} data={data} containerClass={'card__footer'} />

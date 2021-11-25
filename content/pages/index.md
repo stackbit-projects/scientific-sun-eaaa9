@@ -5,7 +5,7 @@ sections:
     title: This Is A Big Hero Headlineeiakjnue
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. aieaeaiueae
+      quis lorem malesuada luctus. aieaeaiueaeeae
     actions:
       - label: Learn More
         url: /features
